@@ -12,6 +12,11 @@ This is the first project of Cloud Developer Course on Udacity
 ## Created S3 Bucket's Content Files
 ![Bucket Content Files](img/bucket_content_files.PNG "Bucket Content Files")
 
+## Static Website Hosting
+![Static Website Hosting](img/static_website_hosting_1.PNG "Static Website Hosting")
+
+![Static Website Hosting](img/static_website_hosting_2.PNG "Static Website Hosting")
+
 ## CloudFront Distributions
 ![Cloud front distributions](img/created_buckets.PNG "CloudFront Distributions")
 
