@@ -1,6 +1,20 @@
 # deploy-static-website-on-aws
 This is the first project of Cloud Developer Course on Udacity
 
+# Project Steps
+
+## Created S3 Bucket
+![Created s3 bucket](img/created_buckets.PNG "Created s3 bucket")
+
+## S3 Bucket Policy
+![Bucket Policy](img/bucket_policy.PNG "Created s3 bucket policy")
+
+## Created S3 Bucket's Content Files
+![Bucket Content Files](img/bucket_content_files.PNG "Bucket Content Files")
+
+## CloudFront Distributions
+![Cloud front distributions](img/created_buckets.PNG "CloudFront Distributions")
+
 # Access Website in Web Browser
 
 1. Open a web browser like Google Chrome, and paste the copied CloudFront domain name:
